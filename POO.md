@@ -41,3 +41,8 @@ partir de una misma plantilla, usar los mismos metodos y propiedades, atributos
 
 atributos y metodos 
 clase base, propiedades de mas?
+
+class Person
+	properties
+	
+tensor -> guardar distintos valores en niveles
