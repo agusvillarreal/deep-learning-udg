@@ -39,7 +39,7 @@ problema -> distintos ajustes de la función de activación
 # Neurona sigmoide
 artificial que utiliza la función de activación sigmoide para operar con valores reales
 
-$$\sigma = 1/(1 + e^{-\Sigma})$$
+$$\sigma = \frac{1}{(1 + e^{-\Sigma})}$$
 
 utilizar distintas funciones de activación
 diferentes opciones de funciones de activación para simular distintos tipos de mdoelos utilizados en el ML
