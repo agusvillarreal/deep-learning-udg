@@ -26,11 +26,19 @@ Bias -> 1 bias = numero de nuerona
 # Forward propagation
 
 # Backpropagation
+Algoritmo que ajusta los parametros utilizando gradient descendt hasta alcanzar el valor mínimo global de la función de costo
 ## Función de costo
 Medida del error para encontrar la diferencia entre la predicción y el resultado esperado
 
 El objetivo es encontrar el valor mínimo
 ### $$C = w^2$$
+
+# Que es el _gradient descent?_
+Algoritmo de optimización donde el gradiente se calcula de manera iteratia
+
+# Autoencoder
+Reducir la dimensión de nuestra entrada buscando las caracteristicas principales emergentes, encontrar la minima expresión de la entrada (abstracción)
+
 
 
 
